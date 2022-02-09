@@ -42,17 +42,19 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Gitea" src="https://img.shields.io/badge/Gitea-%23ff8800.svg?style=plastic&logo=gitea&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%235586A4.svg?style=plastic&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%235586A4.svg?style=plastic&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Drone CI" src="https://img.shields.io/badge/Drone%20CI-%235e5aff.svg?style=plastic&logo=drone&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -61,7 +63,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/intellij%20idea-%23ffffff.svg?style=plastic&logo=intellij-idea&logoColor=black" /></a>
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23ffffff.svg?style=plastic&logo=intellij-idea&logoColor=black" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -74,7 +76,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/kali%20linux-%2348B9C7.svg?style=plastic&&logo=kali-linux&logoColor=white" /></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Kali%20Linux-%2348B9C7.svg?style=plastic&&logo=kali-linux&logoColor=white" /></a>	  
 </p>
 
 <br/>
