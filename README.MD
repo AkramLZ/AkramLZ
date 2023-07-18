@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi , I'm Akram Louze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Backend+Developer;Working+with+ID2R;Working+with+UltimisMC+Network&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I am a 17 years old guy who love to learn new things and improve his skills.</h4>
+<h5 align="center">I am a 18 years old guy who love to learn new things and improve his skills.</h4>
 <br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=AkramLZ&label=Profile%20views&color=0e75b6&style=plastic" alt="AkramLZ" /> 
@@ -25,6 +25,10 @@
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
 </p>
 
@@ -98,5 +102,5 @@
 	<a href="mailto:akram@id2r.studio"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
 	<a href="https://github.com/AkramLZ"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.facebook.com/iipr.x"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ipr.x/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/itsakraml/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
